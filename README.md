@@ -5,10 +5,7 @@ Nesta API criamos um servidor com 4 rotas GET para executar as 4 operações bá
 
 ## Pré-requisitos
 
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white)
+### Node.js         npm         Express         Insomnia
 
 ## Como instalar a API
 Para instalar e executar o código da calculadora on-line, siga o passo a passo a seguir:
