@@ -5,7 +5,7 @@ Nesta API criamos um servidor com 4 rotas GET para executar as 4 operações bá
 
 ## Pré-requisitos
 
-### Node.js         npm         Express         Insomnia
+### Node.js, npm, Express e Insomnia
 
 ## Como instalar a API
 Para instalar e executar o código da calculadora on-line, siga o passo a passo a seguir:
